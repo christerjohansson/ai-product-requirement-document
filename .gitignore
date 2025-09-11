@@ -1,0 +1,19 @@
+# Qodo IDE files
+.qodo
+
+# Common OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Editor files
+.vscode/
+*.swp
+*.swo
+
+# Log files
+*.log
