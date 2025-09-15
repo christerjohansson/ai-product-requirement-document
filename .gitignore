@@ -17,3 +17,8 @@ Thumbs.db
 
 # Log files
 *.log
+
+# Configuration files with sensitive data
+python/config.json
+python/synology_key
+python/synology_key.pub
